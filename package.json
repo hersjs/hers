@@ -1,0 +1,28 @@
+{
+  "name": "hers",
+  "version": "1.0.0",
+  "description": "Hapi.js ElasticSearch React.js Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hersjs/hers.git"
+  },
+  "keywords": [
+    "Simple",
+    "framework",
+    "using",
+    "Hapi.js",
+    "ElasticSearch",
+    "React.js",
+    "Socket.io"
+  ],
+  "author": "@nelsonic <contact.nelsonic@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hersjs/hers/issues"
+  },
+  "homepage": "https://github.com/hersjs/hers"
+}
